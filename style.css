@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Mochiy+Pop+One&display=swap");
+
+body {
+  color: white;
+  background: #3f7e89;
+  font-family: "Mochiy Pop One", sans-serif;
+}
+span {
+  font-size: 30px;
+}
+#camera,
+#result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+#result_emotion_name,
+#result_emotion_name2 {
+  color: black;
+}
+.emotion_name {
+  font-size: 40px;
+}
+.emoji {
+  font-size: 48px;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  width: 60%;
+  letter-spacing: 10px;
+}
+
+label {
+  background-color: rgba(42, 42, 42, 0.359);
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+}
